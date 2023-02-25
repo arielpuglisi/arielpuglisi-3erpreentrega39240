@@ -121,7 +121,6 @@ footer {
   }
 }
 
-/* prueba */
 @import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
 
 
@@ -221,4 +220,11 @@ span:nth-child(18) {
     opacity: 10;
     filter: blur(0);
   }
+}
+
+
+/* altura discos spotify */
+
+.spotify {
+  height: 100px
 }
