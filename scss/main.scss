@@ -1,5 +1,9 @@
-/* Variables */
-@use './variables';
+
+@import './variables';
+
+.bcolor {
+    background-color: $colordefondo;
+}
 
 /* ----------- Animacion de fondo pagina contacto ------------ */
 html {
