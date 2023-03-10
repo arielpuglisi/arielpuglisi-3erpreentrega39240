@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 /* Variables */ /* ----------- Animacion de fondo pagina contacto ------------ */
+=======
+>>>>>>> 8ee599928dd66e4e3b52b28088fc59f3fb5f986c
 @import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
+.bcolor {
+  background-color: rgb(48, 48, 48);
+}
+
+/* ----------- Animacion de fondo pagina contacto ------------ */
 html {
   height: 100%;
 }
