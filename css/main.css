@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-/* Variables */ /* ----------- Animacion de fondo pagina contacto ------------ */
-=======
->>>>>>> 8ee599928dd66e4e3b52b28088fc59f3fb5f986c
-@import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
-.bcolor {
-  background-color: rgb(48, 48, 48);
-}
-
+/* Variables */
 /* ----------- Animacion de fondo pagina contacto ------------ */
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
 html {
   height: 100%;
 }
@@ -175,6 +168,10 @@ span:nth-child(18) {
     filter: blur(0);
   }
 }
+.bcolor {
+  background-color: rgb(48, 48, 48);
+}
+
 /* altura discos spotify */
 .spotify {
   height: 100px;
@@ -209,8 +206,12 @@ span:nth-child(18) {
   color: red;
 }
 
-footer {
+.mixfooter {
   min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=main.css.map */
